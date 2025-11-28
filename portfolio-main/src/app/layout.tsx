@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Hasan Ashab - DevOps & Cloud Engineer Portfolio | AWS, Kubernetes, Docker',
+  title: 'Venkat maddula - DevOps & Cloud Engineer Portfolio | AWS, Kubernetes, Docker',
   description:
     'Experienced DevOps and Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD. View my portfolio showcasing cloud infrastructure projects, automation solutions, and scalable deployments.',
   keywords: [
@@ -26,8 +26,8 @@ export const metadata: Metadata = {
     'cloud engineer portfolio', 
     'devops engineer',
     'cloud engineer',
-    'hasan ashab',
-    'hasan ashab portfolio',
+    'Venkat maddula',
+    'Venkat maddula portfolio',
     'portfolio website',
     'aws devops',
     'kubernetes engineer',
@@ -39,9 +39,9 @@ export const metadata: Metadata = {
     'ansible',
     'jenkins'
   ],
-  authors: [{ name: 'Hasan Ashab' }],
-  creator: 'Hasan Ashab',
-  publisher: 'Hasan Ashab',
+  authors: [{ name: 'Venkat maddula' }],
+  creator: 'Venkat maddula',
+  publisher: 'Venkat maddula',
   robots: {
     index: true,
     follow: true,
@@ -56,28 +56,28 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://hasan-ashab.vercel.app',
-    title: 'Hasan Ashab - DevOps & Cloud Engineer Portfolio',
+    url: 'https://Venkat-maddula.vercel.app',
+    title: 'Venkat maddula - DevOps & Cloud Engineer Portfolio',
     description: 'Experienced DevOps and Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD. View my portfolio showcasing cloud infrastructure projects.',
-    siteName: 'Hasan Ashab Portfolio',
+    siteName: 'Venkat maddula Portfolio',
     images: [
       {
         url: '/profile-pic.png',
         width: 1200,
         height: 630,
-        alt: 'Hasan Ashab - DevOps & Cloud Engineer',
+        alt: 'Venkat maddula - DevOps & Cloud Engineer',
       },
     ],
   },
   // twitter: {
   //   card: 'summary_large_image',
-  //   title: 'Hasan Ashab - DevOps & Cloud Engineer Portfolio',
+  //   title: 'Venkat maddula - DevOps & Cloud Engineer Portfolio',
   //   description: 'Experienced DevOps and Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD.',
   //   images: ['/profile-pic.png'],
-  //   creator: '@hasanashab',
+  //   creator: '@Venkatmaddula',
   // },
   alternates: {
-    canonical: 'https://hasan-ashab.vercel.app',
+    canonical: 'https://Venkat-maddula.vercel.app',
   },
   verification: {
     google: 'wUvigUYIHyBvrQMmeBFTg5ixr4HDAdPcPPlyPJSzmc0',
@@ -92,14 +92,14 @@ export default function RootLayout({
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    name: 'Hasan Ashab',
+    name: 'Venkat maddula',
     jobTitle: 'DevOps & Cloud Engineer',
     description: 'Experienced DevOps and Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD automation',
-    url: 'https://hasan-ashab.vercel.app',
-    image: 'https://hasan-ashab.vercel.app/profile-pic.jpg',
+    url: 'https://Venkat-maddula.vercel.app',
+    image: 'https://Venkat-maddula.vercel.app/profile-pic.jpg',
     sameAs: [
-      'https://github.com/HasanAshab',
-      'https://linkedin.com/in/hasan-ashab',
+      'https://github.com/Venkatmaddula',
+      'https://linkedin.com/in/Venkat-maddula',
     ],
     knowsAbout: [
       'DevOps',
@@ -128,7 +128,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-        <link rel="canonical" href="https://hasan-ashab.vercel.app" />
+        <link rel="canonical" href="https://Venkat-maddula.vercel.app" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#3b82f6" media="(prefers-color-scheme: light)" />
         <meta name="theme-color" content="#1e40af" media="(prefers-color-scheme: dark)" />

@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Cloud Engineer Portfolio - Hasan Ashab | AWS, Azure, GCP Specialist',
+  title: 'Cloud Engineer Portfolio - Venkat maddula | AWS, Azure, GCP Specialist',
   description: 'Professional cloud engineer portfolio showcasing expertise in AWS, Azure, GCP cloud architecture, migration, and optimization. View cloud infrastructure projects and certifications.',
   keywords: [
     'cloud engineer',
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     'cloud security'
   ],
   alternates: {
-    canonical: 'https://hasan-ashab.vercel.app/cloud-engineer',
+    canonical: 'https://Venkat-maddula.vercel.app/cloud-engineer',
   },
 }
 
@@ -27,7 +27,7 @@ export default function CloudEngineerPage() {
       <div className="container mx-auto px-4 py-16 max-w-4xl">
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
-            Cloud Engineer Portfolio - Hasan Ashab
+            Cloud Engineer Portfolio - Venkat maddula
           </h1>
           <p className="text-xl text-muted-foreground leading-relaxed">
             Certified cloud engineer with expertise in designing, implementing, and managing 

@@ -1,5 +1,5 @@
 
-# Hasan Ashab - DevOps & Cloud Engineer Portfolio
+# Venkat maddula - DevOps & Cloud Engineer Portfolio
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.3.3-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -10,11 +10,11 @@
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [https://hasan-ashab.vercel.app](https://hasan-ashab.vercel.app)
+Visit the live portfolio: [https://Venkat-maddula.vercel.app](https://Venkat-maddula.vercel.app)
 
 ## 👨‍💻 About Me
 
-I'm **Hasan Ashab**, a passionate **DevOps Engineer** and **Cloud Specialist** with expertise in:
+I'm **Venkat maddula**, a passionate **DevOps Engineer** and **Cloud Specialist** with expertise in:
 
 - ☁️ **Cloud Platforms**: AWS, Azure, Google Cloud Platform
 - 🐳 **Containerization**: Docker, Kubernetes, Helm
@@ -103,7 +103,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HasanAshab/portfolio.git
+   git clone https://github.com/Venkatmaddula/portfolio.git
    cd portfolio
    ```
 
@@ -161,8 +161,8 @@ This portfolio is optimized for the following search terms:
 - Cloud Engineer Portfolio
 - DevOps Engineer
 - Cloud Engineer
-- Hasan Ashab
-- Hasan Ashab Portfolio
+- Venkat maddula
+- Venkat maddula Portfolio
 - Portfolio Website
 - AWS DevOps
 - Kubernetes Engineer
@@ -184,12 +184,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Hasan Ashab** - DevOps & Cloud Engineer
+**Venkat maddula** - DevOps & Cloud Engineer
 
-- 🌐 Website: [https://hasan-ashab.vercel.app](https://hasan-ashab.vercel.app)
-- 💼 LinkedIn: [https://linkedin.com/in/hasanashab](https://linkedin.com/in/hasanashab)
-- 🐙 GitHub: [https://github.com/HasanAshab](https://github.com/HasanAshab)
-- 📧 Email: [contact@hasanashab.dev](mailto:contact@hasanashab.dev)
+- 🌐 Website: [https://Venkat-maddula.vercel.app](https://Venkat-maddula.vercel.app)
+- 💼 LinkedIn: [https://linkedin.com/in/Venkatmaddula](https://linkedin.com/in/Venkatmaddula)
+- 🐙 GitHub: [https://github.com/Venkatmaddula](https://github.com/Venkatmaddula)
+- 📧 Email: [contact@Venkatmaddula.dev](mailto:contact@Venkatmaddula.dev)
 
 ## 🙏 Acknowledgements
 

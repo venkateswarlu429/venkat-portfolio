@@ -10,12 +10,12 @@ import { TrackableElement, TrackableContact } from '@/components/analytics/Track
 const Footer: FC = () => {
   const socialLinks = [
     {
-      href: 'https://github.com/HasanAshab',
+      href: 'https://github.com/Venkatmaddula',
       icon: <RxGithubLogo className="w-5 h-5" />,
       label: 'GitHub',
     },
     {
-      href: 'https://www.linkedin.com/in/hasan-ashab/',
+      href: 'https://www.linkedin.com/in/Venkat-maddula/',
       icon: <FaLinkedin className="w-5 h-5" />,
       label: 'LinkedIn',
     },
@@ -62,7 +62,7 @@ const Footer: FC = () => {
           animate="visible"
         >
           <motion.div className="space-y-4" variants={childVariants}>
-            <h1 title="Hasan Ashab" className="text-2xl font-extrabold bg-clip-text">Hasan Ashab</h1>
+            <h1 title="Venkat maddula" className="text-2xl font-extrabold bg-clip-text">Venkat maddula</h1>
             <p className="text-sm text-muted-foreground leading-relaxed">
               DevOps & Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD automation. 
               Building scalable infrastructure aligned with company requirements.

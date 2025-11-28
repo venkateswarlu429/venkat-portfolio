@@ -25,7 +25,7 @@ export function BlogsSection() {
   useEffect(() => {
     async function fetchDevTo() {
       try {
-        const res = await fetch("https://dev.to/api/articles?username=hasan_ashab")
+        const res = await fetch("https://dev.to/api/articles?username=Venkat_maddula")
         const data = await res.json() as any
         
         const posts = data.map((item: any) => ({
@@ -212,7 +212,7 @@ export function BlogsSection() {
           >
             <a
               title="Read all blogs on Dev.to"
-              href="https://dev.to/hasan_ashab"
+              href="https://dev.to/Venkat_maddula"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative overflow-hidden bg-gradient-to-r from-primary to-blue-500 hover:from-blue-500 hover:to-primary text-primary-foreground px-8 py-3 rounded-xl font-semibold shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 inline-block"
